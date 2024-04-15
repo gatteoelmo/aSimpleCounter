@@ -4,6 +4,8 @@
     padding: 0px;
     margin: 0px;
     font-family: "Dosis", sans-serif;
+    font-weight: 400;
+    color: rgba(31, 31, 31, 0.887);
 }
 
 
@@ -34,6 +36,8 @@ span {
     padding: 2px 12px;
     margin-left: 16px;
     margin-right: 16px;
+    text-shadow: -10px -10px 30px #ffffff;
+    text-shadow: 10px 10px 30px #AEAEC0 40%;
 }
 
 button {
@@ -45,7 +49,8 @@ button {
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
     border: none;
     background-color: transparent;
-    padding-bottom: .6rem;
+    padding-bottom: .7rem;
+    transition: 1s;
 }
 
 button:first-child {
