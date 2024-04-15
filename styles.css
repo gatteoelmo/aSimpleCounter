@@ -31,20 +31,16 @@ body {
 
 span {
     font-size: 3rem;
-
-
     font-weight: 400;
     padding: 2px 12px;
     margin-left: 16px;
     margin-right: 16px;
-
-
 }
 
 button {
     font-size: 3rem;
     cursor: pointer;
-    border-radius: 2.5rem;
+    borrgder-radius: 2.5rem;
     width: 5rem;
     height: 5rem;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
