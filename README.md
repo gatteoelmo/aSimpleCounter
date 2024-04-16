@@ -6,7 +6,7 @@
 
 This website is a simple counter application built using HTML, CSS, and JavaScript. It provides a user-friendly interface for incrementing, decrementing, and resetting a counter value.
 
-- [aSimpleCounter link](https://gatteoelmo.github.io/aSimpleCount)
+- [aSimpleCounter link](https://gatteoelmo.github.io/aSimpleCounter/)
 
 ## Features
 
