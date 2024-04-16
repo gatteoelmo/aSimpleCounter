@@ -1,5 +1,7 @@
 # A Simple Counter Website
 
+![Alt text](./img/screenshot.jpg)
+
 ## Description
 
 This website is a simple counter application built using HTML, CSS, and JavaScript. It provides a user-friendly interface for incrementing, decrementing, and resetting a counter value.
