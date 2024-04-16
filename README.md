@@ -17,7 +17,6 @@ This website is a simple counter application built using HTML, CSS, and JavaScri
 
 1. **Increment**: Click on the "+" button to increase the counter value.
 2. **Decrement**: Click on the "-" button to decrease the counter value.
-3. **Reset**: Click on the "Reset" button to reset the counter value to zero.
 
 ## Installation
 
@@ -33,7 +32,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./license.txt) file for details.
 
 ## Author
 
