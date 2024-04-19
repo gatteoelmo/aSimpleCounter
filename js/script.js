@@ -1,6 +1,6 @@
-let add = document.querySelector("#add");
-let subract = document.querySelector("#subtract");
-let output = document.querySelector("#output");
+let add;
+let subract;
+let output;
 
 add.addEventListener("click", function () {
   let result = Number(output.innerText) + 1;
